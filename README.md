@@ -6,7 +6,7 @@
 
 Automation & DevOps enthusiast with 5+ years of hands-on experience in Site Reliability Engineering, CI/CD, software automation testing, and troubleshooting production Linux servers.
 
-Passionate about building reliable, scalable systems — whether through infrastructure as code with Terraform, container orchestration with Kubernetes, automation with Ansible and Python, or crafting robust CI/CD pipelines.
+I work with cloud infrastructure, containers, and monitoring tools to solve problems and make deployments less stressful. Always looking for better ways to automate the boring stuff.
 
 I take ownership, dig deep into issues, and constantly look for smarter, cleaner ways to get things done.
 
