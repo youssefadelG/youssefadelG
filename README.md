@@ -30,7 +30,7 @@ I take ownership, dig deep into issues, and constantly look for smarter, cleaner
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash"/></a>
   <a href="https://prometheus.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" alt="Prometheus"/></a>
   <a href="https://grafana.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" alt="Grafana"/></a>
-  <a href="https://www.vaultproject.io/" target="_blank"><img src="https://www.svgrepo.com/show/354138/hashicorp-vault.svg" alt="Vault" height="30"/></a>
+  <a href="https://www.vaultproject.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Vault_Logo.png" alt="Vault" height="30"/></a>
 </p>
 
 
