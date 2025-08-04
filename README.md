@@ -1,10 +1,10 @@
-## Hi there, I'm Youssef Mahdy 👋
+<h1 align="center">Hi there, I'm Youssef Mahdy 👋</h1>
 
-# 🌱 Growth-driven DevOps Engineer
+<h2 align="center">🔆 Growth-driven DevOps Engineer</h2>
 
 # ✨ Overview
 
-Automation & DevOps enthusiast with 5+ years of hands-on experience in cloud operations, CI/CD, software automation testing, and troubleshooting production Linux servers.
+Automation & DevOps enthusiast with 5+ years of hands-on experience in Site Reliability Engineering, CI/CD, software automation testing, and troubleshooting production Linux servers.
 
 Passionate about building reliable, scalable systems — whether through infrastructure as code with Terraform, container orchestration with Kubernetes, automation with Ansible and Python, or crafting robust CI/CD pipelines .
 
@@ -36,6 +36,14 @@ I take ownership, dig deep into issues, and constantly look for smarter, cleaner
 - 🔭 I’ve been working on real-world projects involving the full development lifecycle, from infrastructure to deployment and monitoring.
 - 🎯 I’m aiming to grow through hands-on challenges, mindset expansion, and sharpening my DevOps toolkit.
 - 🌍 Open to impactful projects, technical collaborations, and new challenges!
+
+I'm certified: 
+<p align="center">
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="066bf723-3566-4bf0-bce1-c7e180d5c0cb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/YoussefMahdy-4032/21B52F415285D1F3?sharingId=585E7C0381DF4E3D" target="_blank">
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="120" alt="AZ-104 Badge"/>
+  </a>
+</p>
 <!--
 **youssefadelG/youssefadelG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
