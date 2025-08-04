@@ -13,7 +13,7 @@ I take ownership, dig deep into issues, and constantly look for smarter, cleaner
 # 👨‍💻Main toolkit:
 
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" height="30"/></a>
   <a href="https://cloud.google.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="GCP"/></a>
   <a href="https://azure.microsoft.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"/></a>
   <a href="https://www.redhat.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="40" alt="Red Hat"/></a>
@@ -30,7 +30,7 @@ I take ownership, dig deep into issues, and constantly look for smarter, cleaner
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash"/></a>
   <a href="https://prometheus.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" alt="Prometheus"/></a>
   <a href="https://grafana.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" alt="Grafana"/></a>
-  <a href="https://www.vaultproject.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/hashicorp_vault/hashicorp_vault-icon.svg" width="40" alt="Vault"/></a>
+  <a href="https://www.vaultproject.io/" target="_blank"><img src="https://www.svgrepo.com/show/354138/hashicorp-vault.svg" alt="Vault" height="30"/></a>
 </p>
 
 
