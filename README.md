@@ -39,7 +39,9 @@ I take ownership, dig deep into issues, and constantly look for smarter, cleaner
 
 I'm certified: 
 <p align="center">
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="066bf723-3566-4bf0-bce1-c7e180d5c0cb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <a href="https://www.credly.com/badges/066bf723-3566-4bf0-bce1-c7e180d5c0cb/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/8e967c6d-9c53-4b65-9f36-a3038b7a5b48/image.png" width="120" alt="AZ-104 Badge" />
+  </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/YoussefMahdy-4032/21B52F415285D1F3?sharingId=585E7C0381DF4E3D" target="_blank">
     <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="120" alt="AZ-104 Badge"/>
   </a>
