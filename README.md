@@ -38,9 +38,10 @@ I take ownership, dig deep into issues, and constantly look for smarter, cleaner
 - 🌍 Open to impactful projects, technical collaborations, and new challenges!
 
 ### I'm certified:
-[![AWS Certified Solutions Architect – Associate Badge](./aws-certified-solutions-architect-associate.png)(https://images.credly.com/size/340x340/images/4bc21c6e-4efe-4f3f-94c2-dfde9d5b87db/image.png)](https://www.credly.com/badges/066bf723-3566-4bf0-bce1-c7e180d5c0cb/public_url)
-
 <p align="center">
+  <a href="https://www.credly.com/badges/066bf723-3566-4bf0-bce1-c7e180d5c0cb/public_url" target="_blank">
+    <img src="./aws-certified-solutions-architect-associate.png" width="120" alt="AWS SAA Badge"/>
+  </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/YoussefMahdy-4032/21B52F415285D1F3?sharingId=585E7C0381DF4E3D" target="_blank">
     <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="120" alt="AZ-104 Badge"/>
   </a>
