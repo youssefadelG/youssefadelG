@@ -6,11 +6,11 @@
 
 Automation & DevOps enthusiast with 5+ years of hands-on experience in Site Reliability Engineering, CI/CD, software automation testing, and troubleshooting production Linux servers.
 
-Passionate about building reliable, scalable systems — whether through infrastructure as code with Terraform, container orchestration with Kubernetes, automation with Ansible and Python, or crafting robust CI/CD pipelines .
+Passionate about building reliable, scalable systems — whether through infrastructure as code with Terraform, container orchestration with Kubernetes, automation with Ansible and Python, or crafting robust CI/CD pipelines.
 
 I take ownership, dig deep into issues, and constantly look for smarter, cleaner ways to get things done.
 
-### 👨‍💻Main toolkit:
+### 👨‍💻 Main toolkit:
 
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" height="30"/></a>
@@ -32,12 +32,7 @@ I take ownership, dig deep into issues, and constantly look for smarter, cleaner
   <a href="https://grafana.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" alt="Grafana"/></a>
 </p>
 
-
-- 🔭 I’ve been working on real-world projects involving the full development lifecycle, from infrastructure to deployment and monitoring.
-- 🎯 I’m aiming to grow through hands-on challenges, mindset expansion, and sharpening my DevOps toolkit.
-- 🌍 Open to impactful projects, technical collaborations, and new challenges!
-
-### I'm certified:
+### ✅ Certified:
 <p align="center">
   <a href="https://www.credly.com/badges/066bf723-3566-4bf0-bce1-c7e180d5c0cb/public_url" target="_blank">
     <img src="./aws-certified-solutions-architect-associate.png" width="120" alt="AWS SAA Badge"/>
@@ -46,6 +41,11 @@ I take ownership, dig deep into issues, and constantly look for smarter, cleaner
     <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="120" alt="AZ-104 Badge"/>
   </a>
 </p>
+
+- 🔭 I’ve been working on real-world projects involving the full development lifecycle, from infrastructure to deployment and monitoring.
+- 🎯 I’m aiming to grow through hands-on challenges, mindset expansion, and sharpening my DevOps toolkit.
+- 🌍 Open to impactful projects, technical collaborations, and new challenges!
+
 <!--
 **youssefadelG/youssefadelG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
