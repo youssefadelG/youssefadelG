@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Youssef Mahdy 👋</h1>
 
-<h2 align="center">🔆 Growth-driven DevOps Engineer</h2>
+<h2 align="center">🌱 Growth-driven DevOps Engineer</h2>
 
-### ✨ Overview
+###✨ Overview
 
 Automation & DevOps enthusiast with 5+ years of hands-on experience in Site Reliability Engineering, CI/CD, software automation testing, and troubleshooting production Linux servers.
 
@@ -10,7 +10,7 @@ I work with cloud infrastructure, containers, and monitoring tools to solve prob
 
 I take ownership, dig deep into issues, and constantly look for smarter, cleaner ways to get things done.
 
-### 👨‍💻 Main toolkit:
+###👨‍💻 Main toolkit:
 
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" height="30"/></a>
@@ -32,7 +32,7 @@ I take ownership, dig deep into issues, and constantly look for smarter, cleaner
   <a href="https://grafana.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" alt="Grafana"/></a>
 </p>
 
-### ✅ Certified:
+###✅ Certified:
 <p align="center">
   <a href="https://www.credly.com/badges/066bf723-3566-4bf0-bce1-c7e180d5c0cb/public_url" target="_blank">
     <img src="./aws-certified-solutions-architect-associate.png" width="120" alt="AWS SAA Badge"/>
